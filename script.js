@@ -76,3 +76,4 @@ document.querySelector('button').addEventListener('click', () => {
 
     loadPhotos(selectedDate);
 });
+
